@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaushanKumar9525
 - 👀 I’m interested in  Computer Science.
-- 🌱 I’m currently learning BCA at Vestor College of Management.
+- 🌱 I’m currently learning Python  and C. .
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
